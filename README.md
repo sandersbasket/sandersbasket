@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Sanders Rocket
+# Hi there! 👋 I'm Basket
 
 ### 🌟 About Me
 - 🖥️ Passionate developer with experience in **Python**, **Node.js**, **Lua**, and **PHP**.
@@ -23,8 +23,16 @@
 
 ---
 
-### 📈 Stats:
+#### Overall Contribution Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandersbasket&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandersbasket&layout=compact&theme=radical)
 
----
+#### Top Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandersbasket&layout=compact&theme=radical)
+
+#### Streak Stats:
+![GitHub Streak](https://streak-stats.demolab.com?user=sandersbasket&theme=radical&hide_border=true)
+
+#### Activity Graph:
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sandersbasket&theme=radical)
+
+
