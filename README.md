@@ -19,7 +19,7 @@
 - **[lessons-api](https://github.com/sandersbasket/lessons-api)**: API-server for lessons.
 - **[secret-share](https://github.com/sandersbasket/secretshare/tree/master)**: Project designers make secrets.
 - **[rally-multihack-samp](https://github.com/sandersbasket/rally-multihack-samp)**: A multihack mod for SA:MP.
-- **[LightningProxiesAPI](https://github.com/sandersbasket/LightningProxiesAPI)**: A script for help seller on market (SA:MP).
+- **[LightningProxiesAPI](https://github.com/sandersbasket/LightningProxiesAPI)**: A Python client for managing API LightProxies.
 
 ---
 
