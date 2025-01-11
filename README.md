@@ -16,14 +16,15 @@
 ---
 
 ### 🚀 Featured Projects:
-- **[distance-ip-js](https://github.com/sandersbasket/distance-ip-js)**: A function to calculate the distance between IP addresses.
-- **[tdata-converter](https://github.com/sandersbasket/tdata-converter)**: A tdata to Telethon session converter.
+- **[lessons-api](https://github.com/sandersbasket/lessons-api)**: API-server for lessons.
+- **[secret-share](https://github.com/sandersbasket/secretshare/tree/master)**: Project designers make secrets.
 - **[rally-multihack-samp](https://github.com/sandersbasket/rally-multihack-samp)**: A multihack mod for SA:MP.
-- **[anonim-bot-telegram](https://github.com/sandersbasket/anonim-bot-telegram)**: A Telegram bot for anonymous chats.
+- **[central-market](https://github.com/sandersbasket/central-market-arizona-bot)**: A script for help seller on market (SA:MP).
 
 ---
 
 ### 📈 Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandersbasket&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandersbasket&layout=compact&theme=radical)
 
 ---
